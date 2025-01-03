@@ -3,4 +3,8 @@
     <!-- Default background color -->
     <color name="gm3_sys_color_dark_background">@*android:color/system_neutral1_900</color>
     <color name="gm3_dark_default_color_background">@*android:color/system_neutral1_900</color>
+
+    <!-- FAB background color -->
+    <color name="gm3_sys_color_dark_primary">@*android:color/system_accent1_200</color>
+    <color name="gm3_dark_default_color_primary">@*android:color/system_accent1_200</color>
 </resources>
