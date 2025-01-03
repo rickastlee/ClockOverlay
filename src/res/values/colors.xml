@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default background color -->
+    <color name="gm3_sys_color_dark_background">@*android:color/system_neutral1_900</color>
+    <color name="gm3_dark_default_color_background">@*android:color/system_neutral1_900</color>
+</resources>
